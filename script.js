@@ -106,7 +106,7 @@ and never feel alone…
 because I will always be right by your side.
 i love you mi amor🤍
 
-Fandi`;
+//Fandi`;
 
 let i = 0;
 
