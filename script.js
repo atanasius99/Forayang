@@ -79,34 +79,10 @@ answers.forEach(btn=>{
 
 let text = `Happy 25th Birthday, sayangg 🤍
 
-You’re not just getting older,
-you’re becoming more incredible in your own way.
+You’re not just getting older, you’re becoming more incredible in your own way. I know I’m not perfect, and sometimes I can be annoying. If I’ve ever hurt you, I’m truly sorry. But through everything, please remember this, I care about you more than words can say ❤️
+Thank you for staying, for your patience, and for being you. I pray you’re always given health, happiness, and ease in every step. May everything you’re working for find its way to you. And when life gets hard, I hope you stay strong and never feel alone… because I will always be right by your side. I love you mi amor🤍
 
-I know I’m not perfect,
-and sometimes I can be annoying.
-If I’ve ever hurt you, I’m truly sorry.
-
-But through everything,
-please remember this,
-I care about you more than words can say ❤️
-
-Thank you for staying,
-for your patience,
-and for being you.
-
-I pray you’re always given health,
-happiness, and ease in every step.
-May everything you’re working for
-find its way to you.
-
-And when life gets hard,
-I hope you stay strong
-and never feel alone…
-
-because I will always be right by your side.
-i love you mi amor🤍
-
-\n\nWith love,\nFandi`;
+With love,\nFandi`;
 
 let i = 0;
 
